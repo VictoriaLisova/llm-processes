@@ -1,0 +1,805 @@
+[
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "I Love You.",
+                "label": "Columbia Records",
+                "releaseDate": "April 23, 2013",
+                "songs": [
+                    {
+                        "name": "Sweater Weather"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            },
+            {
+                "name": "Wiped Out!",
+                "label": "unknown",
+                "releaseDate": "October 30, 2015",
+                "songs": [
+                    {
+                        "name": "R.I.P. 2 My Youth"
+                    },
+                    {
+                        "name": "Daddy Issues"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            },
+            {
+                "name": "The Neighbourhood",
+                "label": "unknown",
+                "releaseDate": "March 9, 2018",
+                "songs": [
+                    {
+                        "name": "Scary Love"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            },
+            {
+                "name": "Chip Chrome and the Mono-Tones",
+                "label": "unknown",
+                "releaseDate": "September 25, 2020",
+                "songs": [
+                    {
+                        "name": "Cherry Flavoured"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            },
+            {
+                "name": "Ultrasound",
+                "label": "unknown",
+                "releaseDate": "November 14, 2025",
+                "songs": [
+                    {
+                        "name": "OMG"
+                    },
+                    {
+                        "name": "Lovebomb"
+                    },
+                    {
+                        "name": "Private"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Jesse Rutherford",
+                "position": "lead vocals"
+            },
+            {
+                "name": "Zachary Abels",
+                "position": "lead and rhythm guitar"
+            },
+            {
+                "name": "Jeremiah Freedman",
+                "position": "rhythm and lead guitar"
+            },
+            {
+                "name": "Michael Margott",
+                "position": "bass guitar"
+            },
+            {
+                "name": "Brandon Fried",
+                "position": "drums"
+            },
+            {
+                "name": "Bryan 'Olivver The Kid' Sammis",
+                "position": "drums"
+            }
+        ],
+        "events": [
+            {
+                "name": "Coachella",
+                "location": "unknown",
+                "date": "2013"
+            },
+            {
+                "name": "Edgefest",
+                "location": "Toronto, Canada",
+                "date": "July 31, 2013"
+            },
+            {
+                "name": "Osheaga",
+                "location": "Montreal, Canada",
+                "date": "August 4, 2013"
+            },
+            {
+                "name": "Music Midtown",
+                "location": "Atlanta",
+                "date": "September 21, 2013"
+            }
+        ]
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2013,
+        "albums": [
+            {
+                "name": "I Love You",
+                "label": "null",
+                "releaseDate": "April 22, 2013",
+                "songs": [
+                    {
+                        "name": "How"
+                    },
+                    {
+                        "name": "Afraid"
+                    },
+                    {
+                        "name": "Everybody`s Watching Me (Uh Oh)"
+                    },
+                    {
+                        "name": "Sweater Weather"
+                    },
+                    {
+                        "name": "Let It Go"
+                    },
+                    {
+                        "name": "Alleyways"
+                    },
+                    {
+                        "name": "W.D.Y.W.F.M?"
+                    },
+                    {
+                        "name": "Flawless"
+                    },
+                    {
+                        "name": "Female Robbery"
+                    },
+                    {
+                        "name": "Staying Up"
+                    },
+                    {
+                        "name": "Float"
+                    }
+                ],
+                "producers": [
+                    {
+                        "name": "Justyn Pilbrow",
+                        "position": "production"
+                    },
+                    {
+                        "name": "Emile Haynie",
+                        "position": "production"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "publicationName": "Los Angeles Times",
+                        "critic": {
+                            "name": "Mikael Wood",
+                            "position": "critic"
+                        },
+                        "summary": "Their songs mostly stretch out into dreary electro-goth atmospherics and lack any kind of urgency"
+                    },
+                    {
+                        "publicationName": "AllMusic",
+                        "critic": {
+                            "name": "Tim Sendra",
+                            "position": "editor"
+                        },
+                        "summary": "The album's music rarely deviates from its ponderous nature, ultimately leaving the listener with an overall experience that is oppressively grey and joyless"
+                    },
+                    {
+                        "publicationName": "Drowned in Sound",
+                        "critic": {
+                            "name": "Kat Rolle",
+                            "position": "critic"
+                        },
+                        "summary": "Lyrics are inane and thematically limited to California and sex, while panning the band's musical approach as unoriginal and calculated for mass appeal"
+                    },
+                    {
+                        "publicationName": "DIY",
+                        "critic": {
+                            "name": "Jamie Milton",
+                            "position": "critic"
+                        },
+                        "summary": "The Neighbourhood stick to the remarkably fully formed mantra they arrived on the scene chanting, achieving what few debuts can, by making one hell of an opening statement"
+                    },
+                    {
+                        "publicationName": "The Guardian",
+                        "critic": {
+                            "name": "Caroline Sullivan",
+                            "position": "critic"
+                        },
+                        "summary": "Critical of the album's petulant lyrics, which were obviously aimed at teenagers, but concluded that its dreamy melancholy and high-shine production and traditional songcraft may nonetheless appeal to a broader audience"
+                    },
+                    {
+                        "publicationName": "Irish Times",
+                        "critic": {
+                            "name": "Jim Carroll",
+                            "position": "critic"
+                        },
+                        "summary": "The band's hooky pop songs can be ravishing, but the album is weighed down by occasional fillers"
+                    }
+                ]
+            }
+        ],
+        "members": [
+            {
+                "name": "Jesse Rutherford",
+                "position": "vocals"
+            },
+            {
+                "name": "Zach Abels",
+                "position": "lead guitar"
+            },
+            {
+                "name": "Jeremy Freedman",
+                "position": "rhythm guitar, backing vocals"
+            },
+            {
+                "name": "Mikey Margott",
+                "position": "bass"
+            },
+            {
+                "name": "Bryan Sammis",
+                "position": "drums, percussion, backing vocals"
+            }
+        ],
+        "events": []
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 0,
+        "albums": [
+            {
+                "name": "Wiped Out!",
+                "label": "Columbia Records",
+                "releaseDate": "October 30, 2015",
+                "songs": [
+                    {
+                        "name": "Wiped Out!"
+                    },
+                    {
+                        "name": "Daddy Issues"
+                    },
+                    {
+                        "name": "R.I.P. 2 Youth"
+                    },
+                    {
+                        "name": "Greetings From California (Demo)"
+                    },
+                    {
+                        "name": "The Beach"
+                    },
+                    {
+                        "name": "A Moment of Silence"
+                    },
+                    {
+                        "name": "Baby Came Home 2/Valentines"
+                    },
+                    {
+                        "name": "Single"
+                    },
+                    {
+                        "name": "Ferrari"
+                    },
+                    {
+                        "name": "Cry Baby"
+                    },
+                    {
+                        "name": "Prey"
+                    },
+                    {
+                        "name": "Leather Weather"
+                    },
+                    {
+                        "name": "Cinnamon"
+                    },
+                    {
+                        "name": "Pressure"
+                    },
+                    {
+                        "name": "Maniac"
+                    }
+                ],
+                "producers": [
+                    {
+                        "name": "Justyn Pilbrow",
+                        "position": "producer"
+                    },
+                    {
+                        "name": "4e",
+                        "position": "producer"
+                    },
+                    {
+                        "name": "Benny Blanco",
+                        "position": "producer"
+                    },
+                    {
+                        "name": "Kirk Harding",
+                        "position": "executive producer"
+                    },
+                    {
+                        "name": "The Neighbourhood",
+                        "position": "executive producer"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "publicationName": "Exclaim!",
+                        "critic": {
+                            "name": "Ryan B. Patrick",
+                            "position": "writer"
+                        },
+                        "summary": "a \"see what sticks\" effort; it's slick and polished, but hits varying levels of satisfaction throughout."
+                    },
+                    {
+                        "publicationName": "DIY",
+                        "critic": {
+                            "name": "Natasha West",
+                            "position": "writer"
+                        },
+                        "summary": "Wiped Out! delivers a message of heartbreak, hope and heartfelt honesty"
+                    },
+                    {
+                        "publicationName": "Mojo Magazine",
+                        "critic": null,
+                        "summary": "The LA quintet still sound like 16-year-old boys... Musically, though, their slick soulful pop-R&B is far more refined"
+                    },
+                    {
+                        "publicationName": "AllMusic",
+                        "critic": {
+                            "name": "Matt Collar",
+                            "position": "writer"
+                        },
+                        "summary": "doesn't hurt that cuts like \"Cry Baby,\" \"Daddy Issues,\" and \"Greetings from Califournia\" counteract the band's somewhat downtempo vibe with catchy melodies and light, dance-oriented beats."
+                    },
+                    {
+                        "publicationName": "Billboard",
+                        "critic": {
+                            "name": "Kenneth Partridge",
+                            "position": "writer"
+                        },
+                        "summary": "The subtler, less stylized Wiped Out! keeps the palm-trees-at-twilight feel, but the sound is more hazy R&B than rock"
+                    },
+                    {
+                        "publicationName": "Rolling Stone",
+                        "critic": {
+                            "name": "David Turner",
+                            "position": "writer"
+                        },
+                        "summary": "the warmth of \"Sweater Weather\" and the rest of the Neighbourhood's debut album is gone on Wiped Out!, replaced by a ponderous kind of cool"
+                    },
+                    {
+                        "publicationName": "Uncut",
+                        "critic": null,
+                        "summary": "a stylistic and conceptual vacuum."
+                    }
+                ]
+            }
+        ],
+        "members": [
+            {
+                "name": "Zach Abels",
+                "position": "bandmate"
+            },
+            {
+                "name": "Rutherford",
+                "position": "bandmate"
+            }
+        ],
+        "events": [
+            {
+                "name": "North American tour",
+                "location": null,
+                "date": null
+            }
+        ]
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "The Neighbourhood",
+                "label": "Columbia Records",
+                "releaseDate": "March 9, 2018",
+                "songs": [
+                    {
+                        "name": "Reflection"
+                    },
+                    {
+                        "name": "You Get Me So High"
+                    },
+                    {
+                        "name": "Nervous"
+                    },
+                    {
+                        "name": "Scary Love"
+                    },
+                    {
+                        "name": "Void"
+                    },
+                    {
+                        "name": "Too Serious"
+                    },
+                    {
+                        "name": "Sadderdaze"
+                    },
+                    {
+                        "name": "Stuck With Me"
+                    },
+                    {
+                        "name": "Flowers"
+                    },
+                    {
+                        "name": "Softcore"
+                    },
+                    {
+                        "name": "Blue"
+                    },
+                    {
+                        "name": "Revenge"
+                    },
+                    {
+                        "name": "24/7"
+                    },
+                    {
+                        "name": "Beat Take 1"
+                    },
+                    {
+                        "name": "Beautiful Oblivion"
+                    },
+                    {
+                        "name": "Kill Us All"
+                    },
+                    {
+                        "name": "Dust"
+                    },
+                    {
+                        "name": "Compass"
+                    },
+                    {
+                        "name": "Heaven"
+                    },
+                    {
+                        "name": "Livin` in a Dream"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [],
+        "events": [
+            {
+                "name": "Performance of Scary Love",
+                "location": "The Late Late Show with James Corden",
+                "date": "February 20, 2018"
+            },
+            {
+                "name": "Premiere of Scary Love music video",
+                "location": null,
+                "date": "March 9, 2018"
+            }
+        ]
+    },
+    {
+        "name": "the Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "Chip Chrome & the Mono-Tones",
+                "label": "Columbia Records",
+                "releaseDate": "September 25, 2020",
+                "songs": [
+                    {
+                        "name": "The Mono-Tones"
+                    },
+                    {
+                        "name": "Pretty Boy"
+                    },
+                    {
+                        "name": "Cherry Flavoured"
+                    },
+                    {
+                        "name": "Middle of Somewhere"
+                    },
+                    {
+                        "name": "Tobacco Sunburst"
+                    },
+                    {
+                        "name": "Chip Chrome"
+                    },
+                    {
+                        "name": "BooHoo"
+                    },
+                    {
+                        "name": "Devil`s Advocate"
+                    },
+                    {
+                        "name": "Lost in Translation"
+                    },
+                    {
+                        "name": "Hell or High Water"
+                    },
+                    {
+                        "name": "Silver Lining"
+                    },
+                    {
+                        "name": "Over the Influence"
+                    },
+                    {
+                        "name": "The Shining"
+                    },
+                    {
+                        "name": "Stargazing"
+                    },
+                    {
+                        "name": "Here We Go Again"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Jesse Rutherford",
+                "position": "vocalist"
+            }
+        ],
+        "events": []
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "Ultrasound",
+                "label": "Warner Records",
+                "releaseDate": "November 14, 2025",
+                "songs": [
+                    {
+                        "name": "Hula Girl"
+                    },
+                    {
+                        "name": "Lovebomb"
+                    },
+                    {
+                        "name": "Mama Drama"
+                    },
+                    {
+                        "name": "Lil Ol Me"
+                    },
+                    {
+                        "name": "OMG"
+                    },
+                    {
+                        "name": "Stupid Boy"
+                    },
+                    {
+                        "name": "Holy Ghost"
+                    },
+                    {
+                        "name": "Mute"
+                    },
+                    {
+                        "name": "Crushed"
+                    },
+                    {
+                        "name": "Private"
+                    },
+                    {
+                        "name": "Rabbit"
+                    },
+                    {
+                        "name": "Tides"
+                    },
+                    {
+                        "name": "Daisy Chain"
+                    },
+                    {
+                        "name": "Planet"
+                    },
+                    {
+                        "name": "Zombie"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Brandon Fried",
+                "position": "drummer"
+            }
+        ],
+        "events": [
+            {
+                "name": "Band hiatus announcement",
+                "location": null,
+                "date": "February 2022"
+            },
+            {
+                "name": "Brandon Fried removed from band",
+                "location": null,
+                "date": "November 13, 2022"
+            },
+            {
+                "name": "Return to music announcement",
+                "location": null,
+                "date": "August 2025"
+            },
+            {
+                "name": "Release of lead singles OMG, Lovebomb, and Private",
+                "location": null,
+                "date": "October 23, 2025"
+            },
+            {
+                "name": "Announcement of deluxe album Ultrasound+",
+                "location": null,
+                "date": "January 16, 2026"
+            }
+        ]
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 0,
+        "albums": [
+            {
+                "name": "I Love You.",
+                "label": "unknown",
+                "releaseDate": "today",
+                "songs": [
+                    {
+                        "name": "Sweater Weather"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Bryan Sammis",
+                "position": "Drummer"
+            },
+            {
+                "name": "Jesse Rutherford",
+                "position": "lead singer"
+            }
+        ],
+        "events": [
+            {
+                "name": "national tour",
+                "location": null,
+                "date": null
+            },
+            {
+                "name": "SXSW",
+                "location": null,
+                "date": null
+            },
+            {
+                "name": "Lollapalooza",
+                "location": "Chicago",
+                "date": null
+            }
+        ]
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "(((((ultraSOUND)))))",
+                "label": "unknown",
+                "releaseDate": "unknown",
+                "songs": [],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Jesse Rutherford",
+                "position": "lead singer"
+            },
+            {
+                "name": "Mikey Margott",
+                "position": "unknown"
+            },
+            {
+                "name": "Zach Abels",
+                "position": "unknown"
+            },
+            {
+                "name": "Brandon Fried",
+                "position": "unknown"
+            },
+            {
+                "name": "Jeremy Freedman",
+                "position": "unknown"
+            }
+        ],
+        "events": [
+            {
+                "name": "Wourld Tour",
+                "location": "Krakow, Milan, Prague, Zurich",
+                "date": "unknown"
+            }
+        ]
+    },
+    {
+        "name": "The Neighbourhood",
+        "yearCreated": 2011,
+        "albums": [
+            {
+                "name": "(((((ultraSOUND)))))",
+                "label": "Warner Records",
+                "releaseDate": "Nov. 14",
+                "songs": [
+                    {
+                        "name": "Private"
+                    },
+                    {
+                        "name": "OMG"
+                    },
+                    {
+                        "name": "Lovebomb"
+                    }
+                ],
+                "producers": [],
+                "reviews": []
+            },
+            {
+                "name": "Chip Chrome & The Mono-Tones",
+                "label": "unknown",
+                "releaseDate": "September 2020",
+                "songs": [],
+                "producers": [],
+                "reviews": []
+            }
+        ],
+        "members": [
+            {
+                "name": "Jesse Rutherford",
+                "position": "vocalist"
+            },
+            {
+                "name": "Zachary Abels",
+                "position": "guitarist"
+            },
+            {
+                "name": "Jeremiah Freedman",
+                "position": "guitarist"
+            },
+            {
+                "name": "Michael Margott",
+                "position": "bassist"
+            },
+            {
+                "name": "Brandon Fried",
+                "position": "drummer"
+            }
+        ],
+        "events": [
+            {
+                "name": "Reunion",
+                "location": null,
+                "date": "November 2024"
+            },
+            {
+                "name": "Indefinite hiatus",
+                "location": null,
+                "date": "November 2021"
+            }
+        ]
+    }
+]
